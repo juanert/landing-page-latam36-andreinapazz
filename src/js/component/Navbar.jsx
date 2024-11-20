@@ -2,9 +2,9 @@ import React from 'react';
 
 export const Navbar = () => {
     return (
-        <nav className="navbar navbar-expand-lg text-center bg-light navbar-light border-bottom border-body">
+        <nav className="navbar navbar-expand-lg text-center bg-dark navbar-dark border-bottom border-body">
             <div className="container-fluid">
-                <a className="navbar-brand text-black-50" href="#">RAWAYANA</a>
+                <a className="navbar-brand" href="#">RAWAYANA</a>
                 <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                 <span className="navbar-toggler-icon"></span>
             </button>

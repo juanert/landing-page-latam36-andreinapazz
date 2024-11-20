@@ -16,7 +16,7 @@ const Home = () => {
 				<Navbar/>
 			</div>
 				<Jumbotron/>
-			<div className="row row-cols-1 row-cols-md-4 g-4">
+			<div className="row g-4">
 					<Card
                         imagen="https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/e3/48/bb/e348bb56-d21d-2dc0-f69b-e0a04560d624/645789123559.jpg/1200x1200bf-60.jpg"
                         titulo="Trippy Caribbean (Vinyl)"
